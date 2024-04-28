@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "237436701137",
+    "project_id": "app-tel-help",
+    "storage_bucket": "app-tel-help.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237436701137:android:d8a24f9f63b105109138f0",
+        "android_client_info": {
+          "package_name": "com.example.tel_help"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtMOS6hxPIZuoUA3YT4ZYvHtaH8JfQV8c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
